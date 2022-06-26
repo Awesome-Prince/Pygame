@@ -1,2 +1,2 @@
 # JavaScript
-Get JavaScript Docs From Here✨🥀
+**Get JavaScript Docs From Here✨🥀**
