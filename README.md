@@ -1,2 +1,2 @@
-# JavaScript
-**Get JavaScript Docs From Here✨🥀**
+# Pygame
+**Get Pygame Docs From Here✨🥀**
